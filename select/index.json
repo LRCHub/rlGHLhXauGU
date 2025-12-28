@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "YouTubeテーマソング(Instrumental ver.)",
+  "base_artist": "HIKAKIN & SEIKIN",
+  "createdAt": "2025-12-28T02:08:54.643527Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "YouTubeテーマソング -Tetsuya Komuro Rearrange-",
+      "artist": "HIKAKIN & SEIKIN",
+      "has_synced": false,
+      "path": "select/pl_01_YouTubeテーマソング_-Tetsuya_Komuro_Rearrange-_HIKAKIN_&_SEIKIN.txt"
+    }
+  ]
+}
